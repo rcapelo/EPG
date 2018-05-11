@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="551">
+    <display-name lang="es">Comedy Central</display-name>
+  </channel>
+  <programme start="20180511055800 +0200" stop="20180511061200 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Come algas</sub-title>
+    <desc lang="es">Andreu Casanova conoce a demasiada gente obsesionada por el culto al cuerpo, comer sano y equilibrar las energías del Universo. Eso no puede ser bueno(n)</desc>
+    <credits>
+      <director>Rubén Gutiérrez</director>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S7 E34</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511061200 +0200" stop="20180511072700 +0200" channel="551">
+    <title lang="es">Central de Cómicos Express</title>
+    <desc lang="es">Disfruta de un compactado express con los mejores monólogos de nuestros cómicos(n)</desc>
+    <category lang="es">Series</category>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511072700 +0200" stop="20180511090000 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Una gastroscopia, una fiesta loca, loca y el rey de los inodoros</sub-title>
+    <desc lang="es">Los problemas económicos de la comunidad llevan a Enrique a plantear un plan de cobro de morosos. Además, la intención de Edurne de vender el piso de su difunta madre activará un plan para intentar cobrar la deuda que acumula con la comunidad. Por otro lado, Javi dice a Lola que necesita tiempo para pensar y se muda al Bajo A para estar solo. Este acontecimiento lo aprovecharán los leones, que no tardarán en acoplársele para montar un pisito de solteros. Además, Antonio contrata a Maite como dependienta de la pescadería, y a esta se le ocurre modernizar el negocio haciendo sushi. Por último, Patricia, la trabajadora social, consigue un trabajo a Amador como monitor de fitness en un gimnasio. El episodio cuenta con dos intervenciones estelares: la de la actriz vasca Anabel Alonso, que da vida a la hija de Izaskun; y la actriz salmantina Silvia Alonso, que es quien ayuda a Amador a encontrar empleo(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Isabel Ordaz</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>María Adánez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Eva Isanta</actor>
+      <actor>Cristina Castaño</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E97</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511090000 +0200" stop="20180511092500 +0200" channel="551">
+    <title lang="es">Superstore</title>
+    <sub-title lang="es">Día de la adopción de perros</sub-title>
+    <desc lang="es">Mateo y Jonah se encargan de las adopciones de perros. Dina no quiere modificar el horario de Garrett. Cheyenne y Bo pedirán consejo a Glenn y Amy tras haber discutido(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Ben Feldman</actor>
+      <actor>Lauren Ashley Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511092500 +0200" stop="20180511095100 +0200" channel="551">
+    <title lang="es">Superstore</title>
+    <sub-title lang="es">Robo de Halloween</sub-title>
+    <desc lang="es">Dina investiga un posible robo que se produce justo cuando estaban en medio de los preparativos para Halloween. Jonah y Cheyenne acercan posturas mientras Garrett se defiende de las acusaciones que le apuntan como autor del hurto(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Ben Feldman</actor>
+      <actor>Lauren Ashley Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511095100 +0200" stop="20180511101600 +0200" channel="551">
+    <title lang="es">Superstore</title>
+    <sub-title lang="es">Las elecciones</sub-title>
+    <desc lang="es">Llega el día de las elecciones y Cloud 9 se convierte en centro electoral,lo que la compañía aprovechará para modificar los votos a su favor. Dina y Glenn se verán envueltas en problemas por intentar ayudar a Mateo(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Ben Feldman</actor>
+      <actor>Lauren Ashley Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511101600 +0200" stop="20180511103500 +0200" channel="551">
+    <title lang="es">Teachers</title>
+    <sub-title lang="es">Que fluya</sub-title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que seis maestras seguirán intentando moldear las mentes de sus alumnos y superar sus problemas(n)</desc>
+    <credits>
+      <director>Richie Keen</director>
+      <actor>Caitlin Barlow</actor>
+      <actor>Cate Freedman</actor>
+      <actor>Katy Colloton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511103500 +0200" stop="20180511110000 +0200" channel="551">
+    <title lang="es">Teachers</title>
+    <sub-title lang="es">La cita cañón</sub-title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que seis maestras seguirán intentando moldear las mentes de sus alumnos y superar sus problemas(n)</desc>
+    <credits>
+      <director>Richie Keen</director>
+      <actor>Caitlin Barlow</actor>
+      <actor>Cate Freedman</actor>
+      <actor>Katy Colloton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511110000 +0200" stop="20180511112200 +0200" channel="551">
+    <title lang="es">Teachers</title>
+    <sub-title lang="es">La sujetavelas</sub-title>
+    <desc lang="es">Después de un merecido descanso veraniego, comienza un nuevo e intenso curso en el que seis maestras seguirán intentando moldear las mentes de sus alumnos y superar sus problemas(n)</desc>
+    <credits>
+      <director>Richie Keen</director>
+      <actor>Caitlin Barlow</actor>
+      <actor>Cate Freedman</actor>
+      <actor>Katy Colloton</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511112200 +0200" stop="20180511130600 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Una piña, una gogó cuarentona y un tiburón con dos penes</sub-title>
+    <desc lang="es">La aparición de una terrible grieta en el edificio deriva en una búsqueda de responsabilidades por parte de Enrique y Antonio, que acaban encontrando a Jorge, el arquitecto que proyectó el edificio. Por su parte, el ingeniero se niega a pagar el arreglo de su bolsillo por lo que Enrique se plantea cómo solucionar el asunto: por las buenas o por las malas. Además, en la comunidad, la elección del color con el que repintar los rellanos provocará un conflicto frontal de los vecinos con Fina, la nueva inquilina del 2º C. Las represalias de la huraña anciana darán pie a un plan de Fermín para doblegarla. Finalmente, Amador, quiere conseguir un trabajo para poder recuperar a sus hijos y convence a Maite para que le ayude en su intento de convertirse en empresario. Convertirá la caravana en un puesto de perritos calientes ambulante(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Adrià Collado</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Isabel Ordaz</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>María Adánez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Eva Isanta</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E96</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511130600 +0200" stop="20180511133500 +0200" channel="551">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de Barbados</sub-title>
+    <desc lang="es">Ross está tan ansioso por su próxima intervención en una convención de paleontólogos que se celebra en Barbados, que no se le ocurre otra cosa que hacerse con un puñado de pases para repartir entre sus amigos. Una vez en la isla, Joey se extraña de que sea a Ross, y no él, a quien reconozcan los asistentes. Novena temporada de esta comedia de situación, cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y encarados a la dura tarea de hacerse adultos. La mala suerte de Mónica (Courteney Cox Arquette) con los hombres terminó finalmente gracias a su matrimonio con Chandler. Después de vivir juntos durante un tiempo, la pareja experimentó todo lo que supone la vida en matrimonio, desde el júbilo a la angustia. Como la más trabajadora del grupo de amigos, continúa desarrollando con pasión su trabajo de chef. Rachel (Jennifer Aniston), antigua compañera de piso de Mónica, es ahora la madre de una preciosa bebé, Emma, y vive con Ross (David Schwimmer) mientras trabaja en un valioso puesto como ejecutiva para la firma de moda Ralph Lauren. Su nueva relación con Ross parece que nunca se asienta y, ahora, Rachel se encuentra en una situación que le cambiará la vida. El paleontólogo Ross ha vivido momentos muy difíciles en su vida desde que su mujer Carol (Jane Sibbett), estando embarazada, le anunciara que era lesbiana y se divorciara de él. Ahora las cosas son todavía un poco más complicadas: Ross ejerce de padre por partida doble de su hija con Rachel y de su hijo con Carol. Inteligente, fuertemente emocional y romántico, Ross ha sido desafortunado en el amor. Recientemente casado, Chandler es un irónico observador de la vida, especialmente de la suya. De siempre románticamente disfuncional y profesionalmente desmotivado, sobrevive en una aburrida oficina gracias a su especial sentido del humor. Quizá la gran hazaña de Chandler haya sido embarcarse en el amor y en una relación madura con Mónica y decir que sí cuando ella le preguntó si deseaba tener hijos. Joey (Matt LeBlanc) resiste los continuos contratiempos y persiste en su sueño de llegar a ser un gran actor. Después de años de andar de audición en audición, Joey regresa finalmente a la serie "Los días de nuestra vida" como un hombre con el cerebro de una mujer. Phoebe (Lisa Kudrow) que se prestó como madre de alquiler para concebir a trillizos de su hermano, continúa viviendo en su propio apartamento y empeñada en su búsqueda de un hombre romántico y permanentemente contento. A pesar de los años y de los contratiempos, Phoebe se empeña en ver lo bueno de todas las cosas... lo cual es una agradable manera de decir que es una bondadosa sin discernimiento. Esta novena temporada sorprende por la aparición de estrellas invitadas en casi todos los capítulos de la serie, entre las que destacan Christina Applegate como hermana menor de Rachel y por cuya interpretación recibió un premio Emmy, Jeff Goldblum ("Parque Jurásico") que interpreta a un famoso actor, Paul Rudd ("Mucho más que amigos"), antiguo novio de Phoebe, Dermot Mulroney ("A propósito de Schmidt"), Freddien Prinze Jr. ("Scooby-Doo"), Hank Azaria ("Abajo el telón"), Selma Blair ("Cosas que no se olvidan") y Jon Lovitz ("Saturday Night Live")(n)</desc>
+    <credits>
+      <director>Kevin S. Bright</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Courteney Cox</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S9 E23</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511133500 +0200" stop="20180511140000 +0200" channel="551">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de Barbados</sub-title>
+    <desc lang="es">A pesar de que hace -por primera vez desde que llegaron a Barbados- un sol radiante, los amigos de Ross acuden a escuchar su intervención en la convención de paleontólogos. El discurso resulta todo un éxito y es muy aplaudido por el resto de congresistas. Novena temporada de esta comedia de situación, cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y encarados a la dura tarea de hacerse adultos. La mala suerte de Mónica (Courteney Cox Arquette) con los hombres terminó finalmente gracias a su matrimonio con Chandler. Después de vivir juntos durante un tiempo, la pareja experimentó todo lo que supone la vida en matrimonio, desde el júbilo a la angustia. Como la más trabajadora del grupo de amigos, continúa desarrollando con pasión su trabajo de chef. Rachel (Jennifer Aniston), antigua compañera de piso de Mónica, es ahora la madre de una preciosa bebé, Emma, y vive con Ross (David Schwimmer) mientras trabaja en un valioso puesto como ejecutiva para la firma de moda Ralph Lauren. Su nueva relación con Ross parece que nunca se asienta y, ahora, Rachel se encuentra en una situación que le cambiará la vida. El paleontólogo Ross ha vivido momentos muy difíciles en su vida desde que su mujer Carol (Jane Sibbett), estando embarazada, le anunciara que era lesbiana y se divorciara de él. Ahora las cosas son todavía un poco más complicadas: Ross ejerce de padre por partida doble de su hija con Rachel y de su hijo con Carol. Inteligente, fuertemente emocional y romántico, Ross ha sido desafortunado en el amor. Recientemente casado, Chandler es un irónico observador de la vida, especialmente de la suya. De siempre románticamente disfuncional y profesionalmente desmotivado, sobrevive en una aburrida oficina gracias a su especial sentido del humor. Quizá la gran hazaña de Chandler haya sido embarcarse en el amor y en una relación madura con Mónica y decir que sí cuando ella le preguntó si deseaba tener hijos. Joey (Matt LeBlanc) resiste los continuos contratiempos y persiste en su sueño de llegar a ser un gran actor. Después de años de andar de audición en audición, Joey regresa finalmente a la serie "Los días de nuestra vida" como un hombre con el cerebro de una mujer. Phoebe (Lisa Kudrow) que se prestó como madre de alquiler para concebir a trillizos de su hermano, continúa viviendo en su propio apartamento y empeñada en su búsqueda de un hombre romántico y permanentemente contento. A pesar de los años y de los contratiempos, Phoebe se empeña en ver lo bueno de todas las cosas... lo cual es una agradable manera de decir que es una bondadosa sin discernimiento. Esta novena temporada sorprende por la aparición de estrellas invitadas en casi todos los capítulos de la serie, entre las que destacan Christina Applegate como hermana menor de Rachel y por cuya interpretación recibió un premio Emmy, Jeff Goldblum ("Parque Jurásico") que interpreta a un famoso actor, Paul Rudd ("Mucho más que amigos"), antiguo novio de Phoebe, Dermot Mulroney ("A propósito de Schmidt"), Freddien Prinze Jr. ("Scooby-Doo"), Hank Azaria ("Abajo el telón"), Selma Blair ("Cosas que no se olvidan") y Jon Lovitz ("Saturday Night Live")(n)</desc>
+    <credits>
+      <director>Kevin S. Bright</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Courteney Cox</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S9 E24</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511140000 +0200" stop="20180511143600 +0200" channel="551">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de después del beso de Joey y Rachel</sub-title>
+    <desc lang="es">Tras regresar de Barbados, Ross se queda de piedra cuando es testigo de un beso entre Joey y Rachel, de cuya relación no estaba al tanto. Décima y última temporada de esta comedia de situación cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y que comparten su vida cotidiana y el sofá del café "Central Perk". Monica (Courteney Cox Arquette), una chef obsesionada por la pulcritud y el orden en su vida, está casada con Chandler (Matthew Perry), un chistoso con un especial sentido del humor. Atravesando el vestíbulo del edificio vive el que fue durante mucho tiempo compañero de piso de Chandler, Joey (Matt LeBlanc), un actor mujeriego que trabaja en la serie "Los días de nuestra vida", y Rachel (Jennifer Aniston), amiga de Monica desde el colegio que, después de muchas mudanzas, vuelve a compartir casa con Joey. En el edifico de enfrente vive el hermano de Monica, Ross (David Schwimmer), divorciado tres veces, incluida una de Rachel. Aunque Rachel y Ross viven en un perpetuo acercamiento/alejamiento, tienen clara la responsabilidad de criar juntos a su recién nacida hija, Emma. Completa el circulo de amigos la ex compañera de piso de Monica, Phoebe Buffay (Lisa Kudrow), una excéntrica eternamente optimista que vive de sus masajes terapéuticos. Esta temporada cuenta, además, con la aparición de estrellas invitadas como Danny DeVito, el músico Donny Osmond, Christina Applegate y Paul Rudd ("Mucho más que amigos"), entre otros(n)</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Courteney Cox</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S10 E1</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511143600 +0200" stop="20180511151400 +0200" channel="551">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El de cuando Joey habla francés</sub-title>
+    <desc lang="es">Monica y Chandler le muestran la ciudad de Nueva York a Erica, la futura madre del bebé que quieren adoptar. Durante el paseo van conociendo algunos detalles interesantes sobre Erica y su embarazo, como, por ejemplo, que el padre biológico de la criatura puede ser un preso que asesinó a su propio padre. Mientras tanto, Joey le implora a Phoebe que le enseñe francés porque tiene una audición próximamente. Décima y última temporada de esta comedia de situación cuyo argumento gira alrededor de la vida de seis amigos, tres chicos y tres chicas, residentes en Nueva York y que comparten su vida cotidiana y el sofá del café "Central Perk". Monica (Courteney Cox Arquette), una chef obsesionada por la pulcritud y el orden en su vida, está casada con Chandler (Matthew Perry), un chistoso con un especial sentido del humor. Atravesando el vestíbulo del edificio vive el que fue durante mucho tiempo compañero de piso de Chandler, Joey (Matt LeBlanc), un actor mujeriego que trabaja en la serie "Los días de nuestra vida", y Rachel (Jennifer Aniston), amiga de Monica desde el colegio que, después de muchas mudanzas, vuelve a compartir casa con Joey. En el edifico de enfrente vive el hermano de Monica, Ross (David Schwimmer), divorciado tres veces, incluida una de Rachel. Aunque Rachel y Ross viven en un perpetuo acercamiento/alejamiento, tienen clara la responsabilidad de criar juntos a su recién nacida hija, Emma. Completa el circulo de amigos la ex compañera de piso de Monica, Phoebe Buffay (Lisa Kudrow), una excéntrica eternamente optimista que vive de sus masajes terapéuticos. Esta temporada cuenta, además, con la aparición de estrellas invitadas como Danny DeVito, el músico Donny Osmond, Christina Applegate y Paul Rudd ("Mucho más que amigos"), entre otros(n)</desc>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Courteney Cox</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S10 E13</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511151400 +0200" stop="20180511163700 +0200" channel="551">
+    <title lang="es">Espía por accidente</title>
+    <desc lang="es">Bei trabaja como vendedor en una tienda de equipamientos deportivos, mientras sueña con una vida repleta de aventuras. Un día normal de trabajo, Bei decide seguir su instinto y vigila a dos hombres con aspecto sospechoso. Cuando Bei descubre que los misteriosos individuos van a perpetrar un atraco en una joyería, entra en acción para frustrar sus planes. El protagonista pronto conoce a Liu, un investigador privado que le convence de que es el hijo desaparecido de un rico hombre de negocios coreano(n)</desc>
+    <credits>
+      <director>Teddy Chan</director>
+      <actor>Jackie Chan</actor>
+      <actor>Min Kim</actor>
+      <actor>Vivian Hsu</actor>
+      <actor>Eric Tsang</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511163700 +0200" stop="20180511182700 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Unas placas solares, una chacha y un montón de mierda</sub-title>
+    <desc lang="es">Los propietarios de Montepinar 7 aprueban la idea de Enrique Pastor de colocar paneles solares en el edificio para tratar de reducir el coste de la factura de la luz. Sin embargo, sus planes se vienen abajo cuando Fina les denuncia al Ministerio de Industria por la instalación ilegal de los dispositivos. A partir de entonces, el presidente del complejo residencial volcará sus esfuerzos en buscar nuevas fuentes energéticas para el inmueble. Chusa regresará Mirador de Montepinar para convertirse en madre, sueño que tratará de hacer realidad junto a su exnovio Coque, el único hombre que no le ha mentido. Entretanto, una nueva rutina desata un inesperado conflicto en Mirador de Montepinar cuando las chicas comienzan a reunirse en el Max &amp; Henry(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Isabel Ordaz</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>María Adánez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eva Isanta</actor>
+      <actor>Cristina Castaño</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E98</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511182700 +0200" stop="20180511185300 +0200" channel="551">
+    <title lang="es">Lo más ridículo</title>
+    <sub-title lang="es">Bebés</sub-title>
+    <desc lang="es">Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo. Deportes, bodas, vacaciones... cualquier lugar y momento es bueno para disfrutar viendo hacer el canelo a otros(n)</desc>
+    <credits>
+      <actor>Alberto Casado</actor>
+      <actor>Roberto Bodegas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511185300 +0200" stop="20180511192200 +0200" channel="551">
+    <title lang="es">El castillo de Takeshi</title>
+    <desc lang="es">Un programa original de Comedy Central que renueva el concurso por excelencia de humor y pruebas físicas, esta vez desde Tailandia. Este popular formato llega con cien nuevos concursantes dispuestos a sufrir infinidad de golpes y mamporros para superar los obstáculos y conseguir su objetivo final: asaltar el castillo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20180511192200 +0200" stop="20180511194900 +0200" channel="551">
+    <title lang="es">Lo más ridículo</title>
+    <sub-title lang="es">Diversión y juegos</sub-title>
+    <desc lang="es">Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo. Deportes, bodas, vacaciones... cualquier lugar y momento es bueno para disfrutar viendo hacer el canelo a otros(n)</desc>
+    <credits>
+      <actor>Alberto Casado</actor>
+      <actor>Roberto Bodegas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511194900 +0200" stop="20180511201100 +0200" channel="551">
+    <title lang="es">El castillo de Takeshi</title>
+    <desc lang="es">Un programa original de Comedy Central que renueva el concurso por excelencia de humor y pruebas físicas, esta vez desde Tailandia. Este popular formato llega con cien nuevos concursantes dispuestos a sufrir infinidad de golpes y mamporros para superar los obstáculos y conseguir su objetivo final: asaltar el castillo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20180511201100 +0200" stop="20180511222200 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Una conserja, un romance imposible y un cuesco traicionero</sub-title>
+    <desc lang="es">Acuciado por la imperante necesidad de cubrir la vacante temporal de conserje, Fermín se ve obligado a contratar a Clara, sobrina de Menchu. Incapaz de superar su ruptura con Yoli, Amador convence a su hermano Teodoro para que vigile de cerca sus movimientos, una iniciativa que tiene consecuencias imprevisibles. Por otra parte, Alba comienza a salir en secreto con Enrique, mientras sus padres, Antonio y Berta, tratan de descubrir la misteriosa identidad del nuevo novio de su hija(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Isabel Ordaz</actor>
+      <actor>María Adánez</actor>
+      <actor>Ernesto Sevilla</actor>
+      <actor>Pablo Chiapella</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S10 E132</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180511222200 +0200" stop="20180512000600 +0200" channel="551">
+    <title lang="es">Dirty Dancing</title>
+    <desc lang="es">La familia Houseman llega a disfrutar del verano al Kellerman's Mountain House Resort, un balneario destinado a las vacaciones de familias acomodadas con actividades para todos. Francis, la hija pequeña, apodada "Baby", una idealista e ingenua adolescente se siente atraída por Johny, el profesor de baile. Por intentar ayudarle, la chica se convertirá en su pareja de baile para lo que recibirá clases intensivas y pronto surgirá entre ellos algo más. Gran éxito de taquilla en todo el mundo. "Dirty Dancing" se convirtió en una película mítica que marcó a toda una generación de adolescentes. Ganó el Oscar a la mejor canción original "(I've had) The Time of My Life". Película por la que Patrick Swayze alcanzó el éxito mundialmente y que afianzaría tres años más tarde con "Ghost"(n)</desc>
+    <credits>
+      <director>Emile Ardolino</director>
+      <actor>Patrick Swayze</actor>
+      <actor>Jennifer Grey</actor>
+      <actor>Jerry Orbach</actor>
+      <actor>Cynthia Rhodes</actor>
+      <actor>Jack Weston</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512000600 +0200" stop="20180512013600 +0200" channel="551">
+    <title lang="es">Cuban Fury</title>
+    <desc lang="es">Bruce fue en su niñez un gran bailarín de salsa, pero una mala experiencia lo hizo retirarse. Ahora trabaja en una oficina y está enamorado de su jefa, aficionada al baile. Para conquistarla, Bruce deberá enfrentarse a los fantasmas de su pasado. "Cuban Fury" es la primera incursión en el mundo del largometraje de James Griffiths. Aunque el guión es obra de Jon Brown, la idea original del filme la firma Nick Frost, el protagonista de la película. Junto a Frost, Rashida Jones, Chris O'Dowd e Ian McShane protagonizan esta comedia en la que la salsa marca el destino de los personajes(n)</desc>
+    <credits>
+      <director>James Griffiths</director>
+      <actor>Nick Frost</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Chris O'Dowd</actor>
+      <actor>Ian McShane</actor>
+      <actor>Olivia Colman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512013600 +0200" stop="20180512020200 +0200" channel="551">
+    <title lang="es">Superstore</title>
+    <sub-title lang="es">Día de la adopción de perros</sub-title>
+    <desc lang="es">Mateo y Jonah se encargan de las adopciones de perros. Dina no quiere modificar el horario de Garrett. Cheyenne y Bo pedirán consejo a Glenn y Amy tras haber discutido(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Ben Feldman</actor>
+      <actor>Lauren Ashley Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512020200 +0200" stop="20180512022200 +0200" channel="551">
+    <title lang="es">Superstore</title>
+    <sub-title lang="es">Robo de Halloween</sub-title>
+    <desc lang="es">Dina investiga un posible robo que se produce justo cuando estaban en medio de los preparativos para Halloween. Jonah y Cheyenne acercan posturas mientras Garrett se defiende de las acusaciones que le apuntan como autor del hurto(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Mark McKinney</actor>
+      <actor>America Ferrera</actor>
+      <actor>Lauren Ash</actor>
+      <actor>Ben Feldman</actor>
+      <actor>Lauren Ashley Carter</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512022200 +0200" stop="20180512023500 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">El Título importa</sub-title>
+    <desc lang="es">Espacio que descubre a nuevos talentos de la comedia y sigue la evolución de los más consagrados(n)</desc>
+    <date>2015</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S6 E34</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512023500 +0200" stop="20180512025500 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Tikismikismo</sub-title>
+    <desc lang="es">"Con este nuevo monólogo, Jorge Segura sigue en su línea de abrir nuestras mentes, y darnos esas reflexiones y consejos que solo él sabe dar...(n)</desc>
+    <credits>
+      <director>Rubén Gutiérrez</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S7 E35</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512025500 +0200" stop="20180512040100 +0200" channel="551">
+    <title lang="es">Central de Cómicos Express</title>
+    <desc lang="es">Disfruta de un compactado express con los mejores monólogos de nuestros cómicos(n)</desc>
+    <category lang="es">Series</category>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512040100 +0200" stop="20180512053400 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Unas placas solares, una chacha y un montón de mierda</sub-title>
+    <desc lang="es">Los propietarios de Montepinar 7 aprueban la idea de Enrique Pastor de colocar paneles solares en el edificio para tratar de reducir el coste de la factura de la luz. Sin embargo, sus planes se vienen abajo cuando Fina les denuncia al Ministerio de Industria por la instalación ilegal de los dispositivos. A partir de entonces, el presidente del complejo residencial volcará sus esfuerzos en buscar nuevas fuentes energéticas para el inmueble. Chusa regresará Mirador de Montepinar para convertirse en madre, sueño que tratará de hacer realidad junto a su exnovio Coque, el único hombre que no le ha mentido. Entretanto, una nueva rutina desata un inesperado conflicto en Mirador de Montepinar cuando las chicas comienzan a reunirse en el Max &amp; Henry(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Isabel Ordaz</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>María Adánez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eva Isanta</actor>
+      <actor>Cristina Castaño</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E98</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512053400 +0200" stop="20180512055600 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">La Guerra Civil</sub-title>
+    <desc lang="es">Espacio que descubre a nuevos talentos de la comedia y sigue la evolución de los más consagrados(n)</desc>
+    <date>2015</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S6 E34</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512055600 +0200" stop="20180512061700 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Familia numerosa</sub-title>
+    <desc lang="es">"Quique Matilla es padre por tercera vez, se ha mudado a un pueblo muy tranquilo, pero su vida no es necesariamente tan tranquila como él quisiera(n)</desc>
+    <credits>
+      <director>Rubén Gutiérrez</director>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S7 E36</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512061700 +0200" stop="20180512072100 +0200" channel="551">
+    <title lang="es">Central de Cómicos Express</title>
+    <desc lang="es">Disfruta de un compactado express con los mejores monólogos de nuestros cómicos(n)</desc>
+    <category lang="es">Series</category>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512072100 +0200" stop="20180512090000 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Una conserja, un romance imposible y un cuesco traicionero</sub-title>
+    <desc lang="es">Acuciado por la imperante necesidad de cubrir la vacante temporal de conserje, Fermín se ve obligado a contratar a Clara, sobrina de Menchu. Incapaz de superar su ruptura con Yoli, Amador convence a su hermano Teodoro para que vigile de cerca sus movimientos, una iniciativa que tiene consecuencias imprevisibles. Por otra parte, Alba comienza a salir en secreto con Enrique, mientras sus padres, Antonio y Berta, tratan de descubrir la misteriosa identidad del nuevo novio de su hija(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Isabel Ordaz</actor>
+      <actor>María Adánez</actor>
+      <actor>Ernesto Sevilla</actor>
+      <actor>Pablo Chiapella</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S10 E132</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512090000 +0200" stop="20180512092600 +0200" channel="551">
+    <title lang="es">Deadbeat</title>
+    <desc lang="es">Kevin, un hombre sin grandes pretensiones, tiene un don poco frecuente, ver a los espíritus y comunicarse con ellos(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Cat Deeley</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Lucy DeVito</actor>
+      <actor>Kal Penn</actor>
+      <actor>Brandon T Jackson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512092600 +0200" stop="20180512095200 +0200" channel="551">
+    <title lang="es">Deadbeat</title>
+    <desc lang="es">Kevin, un hombre sin grandes pretensiones, tiene un don poco frecuente, ver a los espíritus y comunicarse con ellos(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Cat Deeley</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Lucy DeVito</actor>
+      <actor>Kal Penn</actor>
+      <actor>Brandon T Jackson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512095200 +0200" stop="20180512101800 +0200" channel="551">
+    <title lang="es">Deadbeat</title>
+    <desc lang="es">Kevin, un hombre sin grandes pretensiones, tiene un don poco frecuente, ver a los espíritus y comunicarse con ellos(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Cat Deeley</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Lucy DeVito</actor>
+      <actor>Kal Penn</actor>
+      <actor>Brandon T Jackson</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512101800 +0200" stop="20180512103900 +0200" channel="551">
+    <title lang="es">Lo más ridículo</title>
+    <sub-title lang="es">Bebés</sub-title>
+    <desc lang="es">Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo. Deportes, bodas, vacaciones... cualquier lugar y momento es bueno para disfrutar viendo hacer el canelo a otros(n)</desc>
+    <credits>
+      <actor>Alberto Casado</actor>
+      <actor>Roberto Bodegas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512103900 +0200" stop="20180512110600 +0200" channel="551">
+    <title lang="es">Lo más ridículo</title>
+    <sub-title lang="es">Diversión y juegos</sub-title>
+    <desc lang="es">Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo. Deportes, bodas, vacaciones... cualquier lugar y momento es bueno para disfrutar viendo hacer el canelo a otros(n)</desc>
+    <credits>
+      <actor>Alberto Casado</actor>
+      <actor>Roberto Bodegas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512110600 +0200" stop="20180512130600 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Un topo, un torero león y un espetero a la fuga</sub-title>
+    <desc lang="es">Cristina Pedroche visita Mirador de Montepinar para interpretar a Flora, una atractiva estudiante y activista que llega a la comunidad como inquilina de Berta. Atraídos por su belleza, Antonio y Amador competirán por sus encantos y le seguirán en todas sus aventuras antisistema. Por su parte, Berta se entera de que la hija de Javi y Lola no está bautizada e intenta hacerlo a escondidas para evitar que crezca en pecado. Finalmente, Lola recibe una oferta de trabajo para un culebrón en Colombia. Al enterarse de la noticia, Fermín, que solo pensaba casarse con Estela para darle una alegría a su hija, intenta escaquearse de la boda(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Adrià Collado</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Antonia San Juan</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>María Adánez</actor>
+      <actor>Laura Caballero</actor>
+      <actor>Isabel Ordaz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S7 E90</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512130600 +0200" stop="20180512151000 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Un buzón de chivatos, un mayordomo en un Ferrari y la jeringuilla del doctor Trujillo</sub-title>
+    <desc lang="es">Varias denuncias cruzadas entre los vecinos llevarán a una rigurosa funcionaria a hacer una visita obligada a Mirador de Montepinar. La temida inspectora de Trabajo efectuará una ardua y pormenorizada labor de investigación para destapar las irregularidades laborales que tienen lugar en el complejo residencial. Por su parte, decididos a convertirse en emprendedores de éxito, Estela y Fermín ponen en marcha un arriesgado negocio: una clínica de cirugía estética clandestina utilizando como tapadera el bar de Montepinar 7(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Adrià Collado</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>María Adánez</actor>
+      <actor>Antonia San Juan</actor>
+      <actor>Isabel Ordaz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S7 E91</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512151000 +0200" stop="20180512171000 +0200" channel="551">
+    <title lang="es">Kate &amp; Leopold</title>
+    <desc lang="es">Kate McKay (Meg Ryan) es una ejecutiva moderna, una mujer del siglo XXI cuya vida está dirigida a triunfar en el mundo empresarial. Leopold (Hugh Jackman), el tercer Duque de Albany, es un caballero soltero y encantador de finales del siglo XIX. Las expectativas profesionales y sociales de ambos los llevan a mostrarse cínicos ante el menor indicio de enamoramiento, pero cuando una grieta en el tejido del tiempo introduce a Leopold en la actual ciudad de Nueva York, comienza un curioso romance(n)</desc>
+    <credits>
+      <director>James Mangold</director>
+      <actor>Meg Ryan</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Breckin Meyer</actor>
+      <actor>Natasha Lyonne</actor>
+      <actor>Paxton Whitehead</actor>
+      <actor>Spalding Gray</actor>
+      <actor>Josh Stamberg</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512171000 +0200" stop="20180512185400 +0200" channel="551">
+    <title lang="es">Dirty Dancing</title>
+    <desc lang="es">La familia Houseman llega a disfrutar del verano al Kellerman's Mountain House Resort, un balneario destinado a las vacaciones de familias acomodadas con actividades para todos. Francis, la hija pequeña, apodada "Baby", una idealista e ingenua adolescente se siente atraída por Johny, el profesor de baile. Por intentar ayudarle, la chica se convertirá en su pareja de baile para lo que recibirá clases intensivas y pronto surgirá entre ellos algo más. Gran éxito de taquilla en todo el mundo. "Dirty Dancing" se convirtió en una película mítica que marcó a toda una generación de adolescentes. Ganó el Oscar a la mejor canción original "(I've had) The Time of My Life". Película por la que Patrick Swayze alcanzó el éxito mundialmente y que afianzaría tres años más tarde con "Ghost"(n)</desc>
+    <credits>
+      <director>Emile Ardolino</director>
+      <actor>Patrick Swayze</actor>
+      <actor>Jennifer Grey</actor>
+      <actor>Jerry Orbach</actor>
+      <actor>Cynthia Rhodes</actor>
+      <actor>Jack Weston</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512185400 +0200" stop="20180512203700 +0200" channel="551">
+    <title lang="es">La muerte os sienta tan bien</title>
+    <desc lang="es">Helen y Madeline, enemigas acérrimas, depositan su confianza en su cirujano plástico. Cuando ambas se vuelven inmortales, nada volverá a ser lo mismo(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Meryl Streep</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Goldie Hawn</actor>
+      <actor>Nancy Fish</actor>
+      <actor>Michelle Johnson</actor>
+      <actor>Adam Storke</actor>
+      <actor>Alaina Reed Hall</actor>
+      <actor>Isabella Rossellini</actor>
+      <actor>Ian Ogilvy</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512203700 +0200" stop="20180512222500 +0200" channel="551">
+    <title lang="es">Una semana en Córcega</title>
+    <desc lang="es">Dos viejos amigos de cuarenta y tantos años deciden pasar las vacaciones en Córcega junto a Louna y Marie, sus hijas adolescentes. Louna empieza a sentir cierta atracción por el padre de su amiga. "Una semana en Córcega" es una comedia francesa protagonizada por Vincent Cassell y François Cluzet como Laurent y Antoine, respectivamente; Lola Le Lann da vida a Louna, y Alice Isaaz, a Marie. La cinta es un 'remake' de la película que Claude Berri dirigió en 1977, originalmente titulada "Un momento d'égarement" ("Un momento de distracción"), que a su vez tuvo otra versión estadounidense en 1984, dirigida por Stanley Donen y ambientada en Río de Janeiro, con Michael Caine y Demi Moore. Séptimo largometraje del francés Jean-François Richet -que dirige y escribe el guión-, "Una semana en Córcega" combina drama, comedia y romance en una historia donde el amor adulto se deja enredar por la loca adolescencia(n)</desc>
+    <credits>
+      <director>Jean-François Richet</director>
+      <actor>Vincent Cassel</actor>
+      <actor>François Cluzet</actor>
+      <actor>Lola Le Lann</actor>
+      <actor>Alice Isaaz</actor>
+      <actor>Louka Meliava</actor>
+      <actor>Noémie Merlant</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180512222500 +0200" stop="20180513000800 +0200" channel="551">
+    <title lang="es">Morning Glory</title>
+    <desc lang="es">La productora de noticias locales, Becky Fuller, por fin ha conseguido el trabajo de sus sueños en la gran ciudad: encargarse del programa matinal de noticias Daybreak en Nueva York. Sin embargo, ya desde el primer día, el sueño amenaza con convertirse en una pesadilla. Tiene el coraje, las agallas y la destreza que pueda necesitar una mujer para triunfar, pero un gran obstáculo se interpone entre Becky y su ascenso a la cumbre: el legendario Mike Pomeroy, un estrafalario, chulo y nada cooperativo presentador que está a punto de convertirse en la peor lacra para ella... y en su única esperanza para poder cambiar el destino del programa matinal de noticias con menos audiencia de Norteamérica(n)</desc>
+    <credits>
+      <director>Roger Michell</director>
+      <actor>Rachel McAdams</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Jeff Goldblum</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513000800 +0200" stop="20180513003600 +0200" channel="551">
+    <title lang="es">El castillo de Takeshi</title>
+    <desc lang="es">Un programa original de Comedy Central que renueva el concurso por excelencia de humor y pruebas físicas, esta vez desde Tailandia. Este popular formato llega con cien nuevos concursantes dispuestos a sufrir infinidad de golpes y mamporros para superar los obstáculos y conseguir su objetivo final: asaltar el castillo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20180513003600 +0200" stop="20180513011000 +0200" channel="551">
+    <title lang="es">El castillo de Takeshi</title>
+    <desc lang="es">Un programa original de Comedy Central que renueva el concurso por excelencia de humor y pruebas físicas, esta vez desde Tailandia. Este popular formato llega con cien nuevos concursantes dispuestos a sufrir infinidad de golpes y mamporros para superar los obstáculos y conseguir su objetivo final: asaltar el castillo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20180513011000 +0200" stop="20180513024800 +0200" channel="551">
+    <title lang="es">La barbería 2</title>
+    <sub-title lang="es">Vuelta al negocio</sub-title>
+    <desc lang="es">El mundo cambia y los cortes de pelo también, pero hay cosas que nunca pasan de moda: todavía puedes expresar libremente tu opinión en "La barbería"(n)</desc>
+    <credits>
+      <director>Kevin Sullivan</director>
+      <actor>Ice Cube</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Sean Patrick Thomas</actor>
+      <actor>Leonard Earl Howze</actor>
+      <actor>Troy Garity</actor>
+      <actor>Michael Ealy</actor>
+      <actor>Cedric the Entertainer</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513024800 +0200" stop="20180513041400 +0200" channel="551">
+    <title lang="es">Una juerga de pelotas</title>
+    <desc lang="es">Eric, un treintañero que lleva toda la vida organizando increíbles fiestas en la casa de la playa de su padre, ve cómo todos sus amigos empiezan a sentar cabeza y, encima, su padre quiere deshacerse de ese templo del pecado que tiene cerca del mar. Así que Eric decide despedirse de la casa a lo grande y celebrar una gran orgía. El problema es cómo convencer a sus amigos y amigas de tener relaciones sexuales unos con otros, en el mismo lugar y al mismo tiempo. Alex Gregory y Peter Huyck dirigen y escriben el guión de esta comedia gamberra sobre un grupo de treintañeros en busca de la última fiesta salvaje de su juventud. Protagonizada por el cómico Jason Sudeikis, participan también en la cinta Leslie Bibb, Lake Bell, Michelle Borth, Nick Kroll y Tyler Labine(n)</desc>
+    <credits>
+      <director>Alex Gregory, Peter Huyck</director>
+      <actor>Jason Sudeikis</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Lake Bell</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Bibb Leslie</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513041400 +0200" stop="20180513043700 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Quiero ser soltera y sin hijos</sub-title>
+    <desc lang="es">Nene no tiene miedo a meterse en polémicas. En este caso relaciona la crisis con los cubos de cerveza y dedica un bloque a los sprays anti-violación(n)</desc>
+    <date>2013</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513043700 +0200" stop="20180513045700 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">He vuelto y esta vez llevo bigote</sub-title>
+    <desc lang="es">Nuevo monólogo de Pepón Fuentes, cargado de incisivas observaciones personales sobre el lado oscuro de la vida de un treintañero(n)</desc>
+    <date>2014</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513045700 +0200" stop="20180513051000 +0200" channel="551">
+    <title lang="es">Central de Cómicos</title>
+    <sub-title lang="es">Quiero ser una rock &amp; roll star</sub-title>
+    <desc lang="es">Miki Maka es una metralleta del humor. Además, en este monólogo habla de música, de piratería, de bailes, e incluso se anima a cantar, aunque lo que mejor se le da es hacer reír(n)</desc>
+    <date>2014</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S5 E22</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513051000 +0200" stop="20180513055100 +0200" channel="551">
+    <title lang="es">Pata negra</title>
+    <sub-title lang="es">Don Mauro</sub-title>
+    <desc lang="es">A Mauro le inspira todo, y cuando dice todo es todo. La torre Eiffel, la muerte de Marilyn Monroe, Cristobal Colón, el Getafe F.C., el presidente del gobierno, el Papa, la inmortalidad del cangrejo rojo, el Kremlin, etc(n)</desc>
+    <date>2008</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513055100 +0200" stop="20180513061200 +0200" channel="551">
+    <title lang="es">Lo más ridículo</title>
+    <sub-title lang="es">Bebés</sub-title>
+    <desc lang="es">Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo. Deportes, bodas, vacaciones... cualquier lugar y momento es bueno para disfrutar viendo hacer el canelo a otros(n)</desc>
+    <credits>
+      <actor>Alberto Casado</actor>
+      <actor>Roberto Bodegas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513061200 +0200" stop="20180513063500 +0200" channel="551">
+    <title lang="es">Lo más ridículo</title>
+    <sub-title lang="es">Diversión y juegos</sub-title>
+    <desc lang="es">Lo más ridículo, un formato original de Comedy Central UK que recopila vídeos virales en los que la especie humana demuestra hasta dónde es capaz de llegar para alcanzar el absurdo. Deportes, bodas, vacaciones... cualquier lugar y momento es bueno para disfrutar viendo hacer el canelo a otros(n)</desc>
+    <credits>
+      <actor>Alberto Casado</actor>
+      <actor>Roberto Bodegas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513063500 +0200" stop="20180513073500 +0200" channel="551">
+    <title lang="es">Central de Cómicos Express</title>
+    <desc lang="es">Disfruta de un compactado express con los mejores monólogos de nuestros cómicos(n)</desc>
+    <category lang="es">Series</category>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513073500 +0200" stop="20180513090000 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Una piña, una gogó cuarentona y un tiburón con dos penes</sub-title>
+    <desc lang="es">La aparición de una terrible grieta en el edificio deriva en una búsqueda de responsabilidades por parte de Enrique y Antonio, que acaban encontrando a Jorge, el arquitecto que proyectó el edificio. Por su parte, el ingeniero se niega a pagar el arreglo de su bolsillo por lo que Enrique se plantea cómo solucionar el asunto: por las buenas o por las malas. Además, en la comunidad, la elección del color con el que repintar los rellanos provocará un conflicto frontal de los vecinos con Fina, la nueva inquilina del 2º C. Las represalias de la huraña anciana darán pie a un plan de Fermín para doblegarla. Finalmente, Amador, quiere conseguir un trabajo para poder recuperar a sus hijos y convence a Maite para que le ayude en su intento de convertirse en empresario. Convertirá la caravana en un puesto de perritos calientes ambulante(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Adrià Collado</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Isabel Ordaz</actor>
+      <actor>Pablo Chiapella</actor>
+      <actor>María Adánez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Eva Isanta</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E96</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513090000 +0200" stop="20180513092700 +0200" channel="551">
+    <title lang="es">Deadbeat</title>
+    <desc lang="es">Kevin, un hombre sin grandes pretensiones, tiene un don poco frecuente, ver a los espíritus y comunicarse con ellos(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Cat Deeley</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Lucy DeVito</actor>
+      <actor>Kal Penn</actor>
+      <actor>Brandon T Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513092700 +0200" stop="20180513095400 +0200" channel="551">
+    <title lang="es">Deadbeat</title>
+    <desc lang="es">Kevin, un hombre sin grandes pretensiones, tiene un don poco frecuente, ver a los espíritus y comunicarse con ellos(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Cat Deeley</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Lucy DeVito</actor>
+      <actor>Kal Penn</actor>
+      <actor>Brandon T Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513095400 +0200" stop="20180513101600 +0200" channel="551">
+    <title lang="es">Deadbeat</title>
+    <desc lang="es">Kevin, un hombre sin grandes pretensiones, tiene un don poco frecuente, ver a los espíritus y comunicarse con ellos(n)</desc>
+    <credits>
+      <director>Troy Miller</director>
+      <actor>Cat Deeley</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Lucy DeVito</actor>
+      <actor>Kal Penn</actor>
+      <actor>Brandon T Jackson</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513101600 +0200" stop="20180513104400 +0200" channel="551">
+    <title lang="es">El castillo de Takeshi</title>
+    <desc lang="es">Un programa original de Comedy Central que renueva el concurso por excelencia de humor y pruebas físicas, esta vez desde Tailandia. Este popular formato llega con cien nuevos concursantes dispuestos a sufrir infinidad de golpes y mamporros para superar los obstáculos y conseguir su objetivo final: asaltar el castillo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20180513104400 +0200" stop="20180513111100 +0200" channel="551">
+    <title lang="es">El castillo de Takeshi</title>
+    <desc lang="es">Un programa original de Comedy Central que renueva el concurso por excelencia de humor y pruebas físicas, esta vez desde Tailandia. Este popular formato llega con cien nuevos concursantes dispuestos a sufrir infinidad de golpes y mamporros para superar los obstáculos y conseguir su objetivo final: asaltar el castillo(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20180513111100 +0200" stop="20180513130800 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Un oso amoroso, unos mellizos postizos y una bajada a los infiernos</sub-title>
+    <desc lang="es">Curro, casado con la propietaria de una guardería, planea cambiar de lugar de residencia. La cercanía de Mirador de Montepinar al centro infantil que dirige su esposa lleva a la pareja a visitar la urbanización en busca de un piso de alquiler. Es entonces cuando conocen a algunos de sus singulares habitantes, mientras Javi y Judith tratan de matricular a sus respectivos hijos en la guardería. Por otra parte, la encarnizada batalla legal que Antonio Recio mantiene con Berta comienza a inquietar al mayorista de pescado. Angustiado con la idea de vivir solo una vez se formalice el divorcio, el expresidente tratará de convencer a su todavía mujer para que permanezca junto a él con un argumento incontestable: si se divorcia, tendrá el infierno garantizado. Al mismo tiempo, Leo decide abandonar su vida de soltero y formar una familia. Tras conocer las intenciones del soltero de Mirador de Montepinar, Amador le propone alquilarle a su familia para así conseguir dinero extra(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Adrià Collado</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>María Adánez</actor>
+      <actor>Antonia San Juan</actor>
+      <actor>Isabel Ordaz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S7 E92</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513130800 +0200" stop="20180513151700 +0200" channel="551">
+    <title lang="es">La que se avecina</title>
+    <sub-title lang="es">Una limpieza de karma, una familia a la fuga y ojalá que llueva café en el campo</sub-title>
+    <desc lang="es">El final de la séptima temporada llega a Mirador de Montepinar en una situación extrema para muchos de los vecinos y con Enrique Villén (''Los lunes al sol'') como invitado de lujo. El veterano actor se pondrá en la piel del sargento Torres, quien emprenderá un operativo para buscar a Amador y Maite. Asediados por dificultades económicas y judiciales, los Cuquis deciden escapar al bosque con los niños y vivir al margen de la sociedad. Mientras tanto, Enrique y Judith acuden a los tribunales para formalizar su divorcio. Sin embargo, ninguno de los dos dará su brazo a torcer por la custodia de Dylan. Además, Lola espera un rescate tras sufrir un secuestro de las FARC. Por esta razón, Fermín, Javi y Estela ponen en marcha una iniciativa para recaudar dinero y pagar así el rescate de la actriz. Por su parte, Coque estalla y asegura a Antonio Recio que la culpa de sus desgracias se debe a que es una mala persona. Por ello, el mayorista decide limpiar su mal aura cambiando totalmente de personalidad(n)</desc>
+    <credits>
+      <director>Laura Caballero</director>
+      <actor>Adrià Collado</actor>
+      <actor>Guillermo Ortega</actor>
+      <actor>Mariví Bilbao</actor>
+      <actor>José Luis Gil</actor>
+      <actor>Eduardo Gómez</actor>
+      <actor>Cristina Castaño</actor>
+      <actor>Macarena Gómez</actor>
+      <actor>Jordi Sánchez</actor>
+      <actor>María Adánez</actor>
+      <actor>Antonia San Juan</actor>
+      <actor>Isabel Ordaz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S7 E93</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513151700 +0200" stop="20180513165600 +0200" channel="551">
+    <title lang="es">Papá canguro</title>
+    <desc lang="es">Tras no obtener los resultados esperados en una campaña sobre cereales vegetales, Charlie y Phil, dos altos ejecutivos de publicidad que están perdiéndose los placeres de la paternidad, son despedidos de sus trabajos. Eso significa que no podrán volver a mandar a los niños a la Academia Chapman de la estricta señorita Harridan. Después de fracasar en la búsqueda de empleo, y mientras cuida a su hijo de cuatro años, Charlie tiene una idea: si Phil y él pueden arreglárselas para cuidar a dos niños, ¿qué dificultad pueden tener para cuidar a diez? La situación, sin embargo, resulta mucho más difícil de lo que hubieran imaginado. Cada chico es diferente, todo un desafío; la aventura de enseñarles a leer, a jugar, a interactuar entre ellos y a divertirse al mismo tiempo, acaba de empezar. Eddie Murphy, uno de los reyes de la comedia estadounidense, vuelve a trabajar a las órdenes de Steve Carr(n)</desc>
+    <credits>
+      <director>Steve Carr</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Anjelica Huston</actor>
+      <actor>Regina King</actor>
+      <actor>Jonathan Katz</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513165600 +0200" stop="20180513183900 +0200" channel="551">
+    <title lang="es">Poli de guardería 2</title>
+    <desc lang="es">El agente Reed se infiltra como maestro de guardería para cumplir una arriesgada misión(n)</desc>
+    <credits>
+      <director>Don Michael Paul</director>
+      <actor>Darla Taylor</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Jody Thompson</actor>
+      <actor>Sarah Strange</actor>
+      <actor>Aleks Paunovic</actor>
+      <actor>Bill Bellamy</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513183900 +0200" stop="20180513201300 +0200" channel="551">
+    <title lang="es">Forasteros en Nueva York</title>
+    <desc lang="es">Henry y Nancy Clark son una pareja del Medio Oeste americano que, después de 24 años casados, ha perdido la ilusión y la pasión de sus primeros años juntos. Cuando el menor de sus hijos se marcha de casa para ir a estudiar a la universidad descubren una terrible realidad: sus vidas tienen poco en común. Sin embargo, la vida de ambos da un giro radical que les vuelve a unir de nuevo cuando se enfrentan a las más variadas y disparatadas situaciones durante un viaje a Nueva York. Henry tiene que viajar a la Gran Manzana para una entrevista de trabajo y Nancy decide acompañarle a última hora. Allí les ocurre prácticamente de todo desde que se cruzan con el sofisticado e implacable señor Mersault, director del lujoso hotel en el que finalmente logra alojarse tras superar algún que otro contratiempo. A pesar de ser víctimas de un atraco, ser detenidos, perder el equipaje y las tarjetas, vuelven a encontrar el amor y la pasión perdidos. Esta divertida comedia al servicio de tres grandes talentos del género, Steve Martin, Goldie Hawn y John Cleese, mezcla el absurdo y el romanticismo durante el accidentado viaje de este par de provincianos a la gran ciudad. Los personajes de Steve Martin y Goldie Hawn, dirigidos por Sam Weisman, encuentran cierta perdida complicidad al enfrentarse juntos a las adversidades(n)</desc>
+    <credits>
+      <director>Sam Weisman</director>
+      <actor>Steve Martin</actor>
+      <actor>Goldie Hawn</actor>
+      <actor>John Cleese</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513201300 +0200" stop="20180513220700 +0200" channel="551">
+    <title lang="es">Cocodrilo Dundee II</title>
+    <desc lang="es">Mick "Crocodile" Dundee vive en Nueva York con su novia, la periodista Sue Charlton, en un lujoso apartamento. A su manera, con su propio e inimitable estilo y su actitud abierta Mick ha logrado hacer multitud de amigos en toda la ciudad. Tratando a todo el mundo con un mismo y sencillo respeto, Mick se encuentra con frecuencia inmerso en todo tipo de extrañas situaciones urbanas. En más de una ocasión ayuda a la gente a librarse de los asaltantes, pero casi siempre por casualidad. Ahora, Bob Tanner, ex marido de Sue, lleva a cabo un reportaje sobre unos traficantes de drogas en Colombia. Bob ha logrado captar unas comprometidas fotografías en las que se puede ver un asesinato ordenado por el jefe de la banda. Logra enviarlas por correo a Sue y espera a que un agente de la DEA venga a rescatarlo, pero éste no lo consigue y Bob es también asesinado. Los propios agentes de la DEA y el capo de la droga Rico ponen patas arriba la vida de Sue y de Mick, que ignoran la existencia de las fotografías de Tanner. Ante esta situación Mick decide llevarse a Sue de vuelta a Oz, en Australia, para protegerla mejor. Allí pone en práctica todas sus habilidades para escapar del acoso de sus perseguidores. Continuación de la exitosa comedia "Cocodrilo Dundee" que proponía una peculiar revisión del mito del buen salvaje a través de las aventuras de un correoso cazador australiano al que una atractiva periodista decide llevar a la civilización. "Cocodrilo Dundee II" es la primera película como director de John Cornell ("Casi un ángel"), productor y guionista de Cocodrilo Dundee. Al igual que en la primera, "Cocodrilo Dundee II" toma como base la figura real del australiano y cazador John Lever, al que da vida el actor australiano Paul Hohan, de nuevo coguionista, quien al igual que Linda Kozlowski y John Meillon vuelven a repetir sus papeles de la primera entrega. En Cocodrilo Dundee II, que incorpora mucha más acción y menos humor que la primera, Mick Dundee y su novia llevan una vida tranquila en Nueva York hasta que aparecen unos peligrosos narcotraficantes colombianos. En 2001 llegaría una nueva y tardía secuela: "Cocodrilo Dundee en Los Ángeles" (dirigida por Simon Wincer)(n)</desc>
+    <credits>
+      <director>John Cornell</director>
+      <actor>Paul Hogan</actor>
+      <actor>Linda Kozlowski</actor>
+      <actor>John Meillon</actor>
+      <actor>Alec Wilson</actor>
+      <actor>Hechter Ubarry</actor>
+      <actor>Juan Fernández</actor>
+      <actor>Charles Dutton</actor>
+      <actor>Hetcher Ubarry</actor>
+      <actor>Mark Blum</actor>
+      <actor>Charles S. Dutton</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513220700 +0200" stop="20180513233500 +0200" channel="551">
+    <title lang="es">Sólo amigos</title>
+    <desc lang="es">Chris Brander (Ryan Reynolds) es lo que se suele calificar como un chico 'simpático'. Buen amigo, divertido, con sobrepeso y un poco pardillo son las cualidades que Jamie (Amy Smart) encuentra en él. Ella, por el contrario, es la chica más fantástica y más popular del instituto. El día de la graduación, Chris, armándose de valor, decide confesarle su amor. La respuesta de Jamie no se hace esperar: lo quiere, pero sólo como amigo. Diez años más tarde las cosas han cambiado mucho. Chris se ha convertido en un atractivo adulto que se encuentra en un momento estupendo de su carrera como productor musical en una destacada discográfica de Los Ángeles. Su trabajo lo llevará, por casualidad, a Nueva Jersey, su tierra natal, donde se reencontrará con gente de un pasado que no quiere recordar, entre otros, Jamie. Los productores de "American Pie" están detrás de esta comedia romántica del polifacético director Roger Kumble ("La cosa más dulce", "Crueles intenciones"), protagonizada por Ryan Reynolds ("Green Lantern. Linterna verde", "Buried (Enterrado)", "La proposición"), Amy Smart ("Crank: Alto voltaje", "Reflejos") y Anna Faris (saga "Scary Movie"). El guión es de Adam "Tex" Davis quien, por un giro del destino muy cinematográfico, estaba trabajando en una fábrica de máquinas para lavado de coches cuando vendió este guión(n)</desc>
+    <credits>
+      <director>Roger Kumble</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Amy Smart</actor>
+      <actor>Anna Faris</actor>
+      <actor>Chris Klein</actor>
+      <actor>Chris Marquette</actor>
+      <actor>Giacomo Beltrami</actor>
+      <actor>Fred Ewanuick</actor>
+      <actor>Amy Matysio</actor>
+      <actor>Julie Hagerty</actor>
+      <actor>Adam "Tex" Davis</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Cine</category>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20180513233500 +0200" stop="20180513235800 +0200" channel="551">
+    <title lang="es">CCN</title>
+    <sub-title lang="es">Fobias y tocs</sub-title>
+    <desc lang="es">Miedo escénico, fobia social, miedo a colarte en el metro y que te acusen de terrorismo... Hay muchos tipos de miedo y vamos a hablar de todos ellos con Antonio Castelo, Manuel Burque y Marta Flich. Por cierto, también hablaremos de los TOCS. En concreto, lo haremos 13 veces durante un total de 183'3 segundos y utilizando 92 palabras. Lo haremos 13 veces durante un total de 183'3 segundos y utilizando 92 palabras(n)</desc>
+    <credits>
+      <director>Álex Navarro</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20180513235800 +0200" stop="20180514002700 +0200" channel="551">
+    <title lang="es">CCN</title>
+    <sub-title lang="es">Fake News</sub-title>
+    <desc lang="es">En este programa entrevistaremos a Trump, haremos un sketch con el Papa Francisco y Putin vendrá a servirnos un café. Vale, es mentira. Es lo que tienen las Fake news. Lo analizaremos con Castelo, Marta Flich, Edu Galán y la periodista Cristina Pardo. Y todo esto es verdad(n)</desc>
+    <credits>
+      <director>Álex Navarro</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+</tv>
